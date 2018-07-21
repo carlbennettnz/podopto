@@ -1,6 +1,6 @@
 # Podopto
 
-The lecture recording and distrubtion system used by VUW, Panopto, allows you to subscribe to a course's lectures as a podcast. This is useful, but the recordings are often a a bit crappy.
+The lecture recording and distribution system used by VUW, Panopto, allows you to subscribe to a course's lectures as a podcast. This is useful, but the recordings are often a a bit crappy.
 
 * Usually only audio in the right channel.
 * Lots of audio noise, making it hard to hear.
