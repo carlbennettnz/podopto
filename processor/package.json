@@ -1,0 +1,13 @@
+{
+  "name": "podopto-processor",
+  "version": "0.0.0",
+  "description": "The backend audio and video processor for Podopto",
+  "main": "index.js",
+  "repository": "https://github.com/carlbennettnz/podopto/tree/master/processor",
+  "author": "Carl Bennett <carlbennettnz@gmail.com>",
+  "license": "MIT",
+  "private": false,
+  "dependencies": {
+    "commander": "^2.16.0"
+  }
+}
